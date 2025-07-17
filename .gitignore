@@ -1,0 +1,6 @@
+temp/
+virtualenv/
+secret.py
+data.docx
+data.txt
+test.py
